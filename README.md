@@ -12,6 +12,10 @@ The map is accompained by graph, table and value box expression of detailed and 
 
 The data are **not real**, rearrange real data, **decoupling and randomizing** spatial coordinate to the classfication issue, representing the color of the Hospital access.
 
+[Example on shiny.io](https://xpasdup.shinyapps.io/test1/)
+
+![Static image](example.png)
+
 ### Prerequisites
 
 
@@ -22,6 +26,7 @@ R package used:
 - leaflet
 - ggplot2
 - dplyr
+
 
 
 
